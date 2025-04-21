@@ -14,7 +14,7 @@
 ### Blockchain Development
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-2535a0?style=flat-square&logo=ethereum&logoColor=white)
 
 ### Development Tools
 - Foundry
