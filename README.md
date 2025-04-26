@@ -40,7 +40,7 @@ A decentralized marketplace that enables seamless trading of NFTs across multipl
 - Blockchain Integration: Wagmi, Ethers.js
 - Testing: Foundry
 
-🔗 [Live Demo]((https://blockchain-bridge-kappa.vercel.app/))
+🔗 [Live Demo](https://blockchain-bridge-kappa.vercel.app/)
 📱 [GitHub Repo](https://github.com/swaploard/zk-marketplace)
 
 ### 🎨 NFT Marketplace
