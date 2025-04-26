@@ -73,5 +73,5 @@ A decentralized NFT marketplace enabling users to mint, buy, sell, and trade uni
 
 ## 📫 Connect With Me
 <div align="left">
-  <!-- Add your social media links here -->
+  [Portfolio](https://portfolio-ldr5766h3-swaploards-projects.vercel.app/)
 </div>
