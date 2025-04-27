@@ -24,7 +24,7 @@
 
 ## 🌟 Featured Projects
 
-### 🌉 Cross-Chain NFT Marketplace Bridge
+### 🌉 Cross-Chain Bridge
 A decentralized marketplace that enables seamless trading of NFTs across multiple blockchain networks.
 
 **Key Features:**
