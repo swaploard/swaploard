@@ -21,6 +21,8 @@
 - OpenZeppelin
 - Wagmi
 - Ethers.js
+- Next js
+- Typescript
 
 ## 🌟 Featured Projects
 
