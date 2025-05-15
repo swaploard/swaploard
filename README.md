@@ -73,7 +73,38 @@ A decentralized NFT marketplace enabling users to mint, buy, sell, and trade uni
 - Multi-token support
 - Emergency pause functionality
 
+## 🏦 LSD-Collateralized Stablecoin Borrowing App
+
+A decentralized protocol that lets users deposit LSD tokens like stETH, rETH, and bETH to borrow DAI or USDC on optimized terms.
+
+### 🔑 Key Features:
+
+* LSD token collateral support (stETH, rETH, bETH)
+* Real-time health factor tracking to avoid liquidation
+* Borrow stablecoins (DAI or USDC) while holding ETH exposure
+* Dynamic borrow limit based on live LSD-ETH prices and LTV ratios
+* Safe withdrawal logic that respects debt and liquidation thresholds
+* Liquidation engine to protect against undercollateralization
+* Fully testable on Goerli or Holesky with mock LSD tokens
+* Simulated price feed oracles for realistic testnet behavior
+
+### 🧰 Tech Stack:
+
+* **Smart Contracts**: Solidity, OpenZeppelin, mock Chainlink oracles
+* **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+* **Web3 Integration**: Wagmi, Viem, Ethers.js
+* **State Management**: Zustand
+* **Testing & Deployment**: Foundry
+* **Wallet Connection**: RainbowKit or ConnectKit
+* **UI Components**: Shadcn/ui
+* **Collateral Tokens (testnet)**: Sepolia versions of stETH, rETH, bETH
+* **Optional Indexing**: The Graph (custom subgraph for vault & debt positions)
+* **Dev Tools**: Blockscout, Etherscan APIs (testnet)
+
+🔗 [Live Demo](https://liquid-staking-derivatives.vercel.app/)
+📱 [GitHub Repo](https://github.com/swaploard/Liquid-Staking-Derivatives)
+
 ## 📫 Connect With Me
 <div align="left">
-  [Portfolio](https://portfolio-ldr5766h3-swaploards-projects.vercel.app/)
+  [Portfolio](https://portfolio-swaploards-projects.vercel.app/)
 </div>
