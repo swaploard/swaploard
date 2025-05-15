@@ -99,7 +99,7 @@ A decentralized protocol that lets users deposit LSD tokens like stETH, rETH, an
 * **UI Components**: Shadcn/ui
 * **Collateral Tokens (testnet)**: Sepolia versions of stETH, rETH, bETH
 * **Optional Indexing**: The Graph (custom subgraph for vault & debt positions)
-* **Dev Tools**: Blockscout, Etherscan APIs (testnet)
+* **Dev Tools**: Etherscan APIs (testnet)
 
 🔗 [Live Demo](https://liquid-staking-derivatives.vercel.app/)
 📱 [GitHub Repo](https://github.com/swaploard/Liquid-Staking-Derivatives)
