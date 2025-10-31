@@ -14,6 +14,8 @@
 ### Blockchain Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
+![Solana](https://img.shields.io/badge/solana-%236C2DC7.svg?style=flat-square&logo=solana&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-0077FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzIiIGhlaWdodD0iNzIiIHZpZXdCb3g9IjAgMCA3MiA3MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIzNiIgY3k9IjM2IiByPSIzNiIgZmlsbD0iI0ZGRiIvPjxwYXRoIGQ9Ik0zNiAxNUM0Ni41MDQgMTUgNTUgMjMuNDk2IDU1IDM0QzU1IDQ0LjUwNCA0Ni41MDQgNTMgMzYgNTNDMjUuNDk2IDUzIDE3IDQ0LjUwNCAxNyAzNEMxNyAyMy40OTYgMjUuNDk2IDE1IDM2IDE1Wk0zNiAxOUMyNy4xNjIgMTkgMjEgMjUuMTYyIDIxIDM0QzIxIDQyLjgzOCAyNy4xNjIgNDkgMzYgNDlDNDUuODM4IDQ5IDUyIDQyLjgzOCA1MiAzNEM1MiAyNS4xNjIgNDUuODM4IDE5IDM2IDE5WiIgZmlsbD0iIzAwN0ZGRiIvPjwvc3ZnPg==)
 
 ### Development Tools
 - Foundry
@@ -76,7 +78,7 @@ A decentralized NFT marketplace enabling users to mint, buy, sell, and trade uni
 
 A decentralized protocol that lets users deposit LSD tokens like stETH, rETH, and bETH to borrow DAI or USDC on optimized terms.
 
-### 🔑 Key Features:
+Real-time Data Streaming: Live blockchain data ingestion via Yellowstone gRPC
 
 * LSD token collateral support (stETH, rETH, bETH)
 * Real-time health factor tracking to avoid liquidation
@@ -102,6 +104,39 @@ A decentralized protocol that lets users deposit LSD tokens like stETH, rETH, an
 
 🔗 [Live Demo](https://liquid-staking-derivatives.vercel.app/)
 📱 [GitHub Repo](https://github.com/swaploard/Liquid-Staking-Derivatives)
+
+## 🔎📡 Solana Indexer
+
+Solana indexer for historical and real-time data
+
+* Real-time Data Streaming: Live blockchain data ingestion via Yellowstone gRPC
+* Scalable Processing: Redis-based message queuing for reliable data processing
+* High-Performance Storage: ScyllaDB for fast, distributed data storage
+* DeFi Focus: Specialized subscriptions for DeFi-related transactions
+* Type Safety: Comprehensive Rust type system with automatic serialization/deserialization
+* Error Resilience: Robust error handling and logging throughout the pipeline
+
+### 🧰 Tech Stack: 
+
+* Rust, Redis server, Scylla DB, Yellowstone gRPC
+
+## 🌊💸 Automated Market Maker (AMM)
+
+Automated Market Maker (AMM) decentralized exchange (DEX) that uses liquidity pools to facilitate trading of digital assets, such as SOL. Users can deposit their Solana ecosystem tokens into these liquidity pools, enabling others to swap tokens without requiring a middleman or institutional intervention.
+
+* Pool Initialization: Create new trading pairs between any two SPL tokens
+* Liquidity Provision: Add liquidity to pools and receive LP tokens representing ownership share
+* Token Swapping: Exchange tokens using the constant product AMM formula with automatic price calculation
+* Liquidity Removal: Withdraw provided liquidity and earned trading fees by burning LP tokens
+* Wallet Integration: Full Solana wallet support with transaction signing
+* Real-time Updates: Interface updates with transaction confirmations and balance changes
+
+### 🧰 Tech Stack:
+
+* **Smart Contracts**: Solana, Anchor, SPL tokens.
+* **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+* **Web3 Integration**: Next.js 15, solana/web3.js, coral-xyz/anchor, codama/renderers-js.
+* **State Management**: tanstack/react-query
 
 ## 📫 Connect With Me
 <div align="left">
