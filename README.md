@@ -105,38 +105,9 @@ Real-time Data Streaming: Live blockchain data ingestion via Yellowstone gRPC
 🔗 [Live Demo](https://liquid-staking-derivatives.vercel.app/)
 📱 [GitHub Repo](https://github.com/swaploard/Liquid-Staking-Derivatives)
 
-## 🔎📡 Solana Indexer
 
-Solana indexer for historical and real-time data
 
-* Real-time Data Streaming: Live blockchain data ingestion via Yellowstone gRPC
-* Scalable Processing: Redis-based message queuing for reliable data processing
-* High-Performance Storage: ScyllaDB for fast, distributed data storage
-* DeFi Focus: Specialized subscriptions for DeFi-related transactions
-* Type Safety: Comprehensive Rust type system with automatic serialization/deserialization
-* Error Resilience: Robust error handling and logging throughout the pipeline
 
-### 🧰 Tech Stack: 
-
-* Rust, Redis server, Scylla DB, Yellowstone gRPC
-
-## 🌊💸 Automated Market Maker (AMM)
-
-Automated Market Maker (AMM) decentralized exchange (DEX) that uses liquidity pools to facilitate trading of digital assets, such as SOL. Users can deposit their Solana ecosystem tokens into these liquidity pools, enabling others to swap tokens without requiring a middleman or institutional intervention.
-
-* Pool Initialization: Create new trading pairs between any two SPL tokens
-* Liquidity Provision: Add liquidity to pools and receive LP tokens representing ownership share
-* Token Swapping: Exchange tokens using the constant product AMM formula with automatic price calculation
-* Liquidity Removal: Withdraw provided liquidity and earned trading fees by burning LP tokens
-* Wallet Integration: Full Solana wallet support with transaction signing
-* Real-time Updates: Interface updates with transaction confirmations and balance changes
-
-### 🧰 Tech Stack:
-
-* **Smart Contracts**: Solana, Anchor, SPL tokens.
-* **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-* **Web3 Integration**: Next.js 15, solana/web3.js, coral-xyz/anchor, codama/renderers-js.
-* **State Management**: tanstack/react-query
 
 ## 📫 Connect With Me
 <div align="left">
