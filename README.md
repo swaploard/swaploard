@@ -105,9 +105,56 @@ Real-time Data Streaming: Live blockchain data ingestion via Yellowstone gRPC
 🔗 [Live Demo](https://liquid-staking-derivatives.vercel.app/)
 📱 [GitHub Repo](https://github.com/swaploard/Liquid-Staking-Derivatives)
 
+---
 
+## 🧩 Open Source & Protocol Contributions
 
+I actively contribute to open-source blockchain infrastructure and Rust-based distributed systems, with a focus on protocol correctness, performance optimization, and developer tooling.
 
+My contributions typically involve:
+
+* Low-level protocol logic improvements
+* State transition & execution layer enhancements
+* Testing infrastructure & simulation environments
+* zk-proof verification integrations
+* Runtime / VM level optimizations
+* Documentation for complex protocol components
+
+---
+
+### 🔗 Public Contribution Activity
+
+| Type                    | Link                                                                                                                                           |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📦 All Contributions    | [https://github.com/swaploard](https://github.com/swaploard)                                                                                   |
+| 🚀 Pull Requests        | [https://github.com/pulls?q=is%3Apr+author%3Aswaploard](https://github.com/pulls?q=is%3Apr+author%3Aswaploard)                                 |
+| 🐞 Issues & Discussions | [https://github.com/issues?q=is%3Aissue+author%3Aswaploard](https://github.com/issues?q=is%3Aissue+author%3Aswaploard)                         |
+| 🧪 Code Reviews         | [https://github.com/search?q=reviewed-by%3Aswaploard&type=pullrequests](https://github.com/search?q=reviewed-by%3Aswaploard&type=pullrequests) |
+
+---
+
+### 🛠️ Contribution Domains
+
+* Blockchain Execution Engines
+* Zero-Knowledge Proof Systems
+* Actor-based Runtime Architectures
+* Storage & State Management
+* WASM-based Cloud Components
+* Cryptographic Verification Pipelines
+* Developer Experience (DX) Tooling
+
+---
+
+### 📈 Engineering Focus
+
+My open-source work reflects a strong inclination toward:
+
+* Deterministic system design
+* Fault-tolerant distributed architectures
+* High-performance Rust services
+* Protocol-level testing methodologies
+* Modular runtime composition
+* Secure contract execution environments
 
 ## 📫 Connect With Me
 <div align="left">
