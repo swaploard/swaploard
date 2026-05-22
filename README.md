@@ -38,74 +38,14 @@ A decentralized marketplace that enables seamless trading of NFTs across multipl
 - Real-time transaction tracking
 
 **Tech Stack:**
+- Agents: Rust, Typescript
 - Smart Contracts: Solidity, OpenZeppelin
 - Frontend: Next.js, TypeScript, Tailwind CSS
+- Backend: Bun.js, Node.js, Tokio.rs.
 - Blockchain Integration: Wagmi, Ethers.js
-- Testing: Foundry
 
 🔗 [Live Demo](https://blockchain-bridge-kappa.vercel.app/)
 📱 [GitHub Repo](https://github.com/swaploard/zk-marketplace)
-
-### 🎨 NFT Marketplace
-A decentralized NFT marketplace enabling users to mint, buy, sell, and trade unique digital assets.
-
-**Key Features:**
-- NFT Minting with Metadata Support
-- Buy/Sell NFTs with Multiple Payment Options
-- Advanced Search & Filter System
-- Real-time Price Updates
-- Collection Management
-- Royalty System for Creators
-- Auction Mechanism
-
-**Tech Stack:**
-- Smart Contracts: Solidity, OpenZeppelin (ERC1155)
-- Frontend: React, Next.js, TypeScript, Tailwind CSS
-- Web3 Integration: Wagmi, Ethers.js
-- Testing & Deployment: Foundry
-- IPFS for Metadata Storage
-
-🔗 [Live Demo](https://zk-marketplace.vercel.app/)
-📱 [GitHub Repo](https://github.com/swaploard/Blockchain-bridge/tree/main)
-
-**Contract Features:**
-- Secure escrow system
-- Gas-optimized transactions
-- Multi-token support
-- Emergency pause functionality
-
-## 🏦 LSD-Collateralized Stablecoin Borrowing App
-
-A decentralized protocol that lets users deposit LSD tokens like stETH, rETH, and bETH to borrow DAI or USDC on optimized terms.
-
-Real-time Data Streaming: Live blockchain data ingestion via Yellowstone gRPC
-
-* LSD token collateral support (stETH, rETH, bETH)
-* Real-time health factor tracking to avoid liquidation
-* Borrow stablecoins (DAI or USDC) while holding ETH exposure
-* Dynamic borrow limit based on live LSD-ETH prices and LTV ratios
-* Safe withdrawal logic that respects debt and liquidation thresholds
-* Liquidation engine to protect against undercollateralization
-* Fully testable on Goerli or Holesky with mock LSD tokens
-* Simulated price feed oracles for realistic testnet behavior
-
-### 🧰 Tech Stack:
-
-* **Smart Contracts**: Solidity, OpenZeppelin, mock Chainlink oracles
-* **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-* **Web3 Integration**: Wagmi, Viem, Ethers.js
-* **State Management**: Zustand
-* **Testing & Deployment**: Foundry
-* **Wallet Connection**: RainbowKit or ConnectKit
-* **UI Components**: Shadcn/ui
-* **Collateral Tokens (testnet)**: Sepolia versions of stETH, rETH, bETH
-* **Optional Indexing**: The Graph (custom subgraph for vault & debt positions)
-* **Dev Tools**: Etherscan APIs (testnet)
-
-🔗 [Live Demo](https://liquid-staking-derivatives.vercel.app/)
-📱 [GitHub Repo](https://github.com/swaploard/Liquid-Staking-Derivatives)
-
----
 
 ## 🧩 Open Source & Protocol Contributions
 
