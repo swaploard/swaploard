@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Nikhil</h1>
-  <h3>FullStack Blockchain Developer</h3>
+  <h3>FullStack Agents Developer</h3>
 </div>
 
 ## 🛠️ Tech Stack
